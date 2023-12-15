@@ -2,9 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tabla ASCII</title>
+    <title>ASCII Table</title>
 </head>
 <body>
+
 <?php
 function obtenerCaracterASCII($valor) {
     return chr($valor);
